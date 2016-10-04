@@ -1,0 +1,12 @@
+U:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\bin\Debug\ConsoleNewsAggregator.exe
+U:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\bin\Debug\ConsoleNewsAggregator.pdb
+U:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.csprojResolveAssemblyReference.cache
+U:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.exe
+U:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.pdb
+V:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.exe
+V:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.pdb
+V:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\bin\Debug\ConsoleNewsAggregator.exe
+V:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\bin\Debug\ConsoleNewsAggregator.pdb
+V:\TIY\CrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.csprojResolveAssemblyReference.cache
+V:\TIY\CrashCourses\GIT\TIYCrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.exe
+V:\TIY\CrashCourses\GIT\TIYCrashCourses\ConsoleNewsAggregator\ConsoleNewsAggregator\obj\Debug\ConsoleNewsAggregator.pdb
